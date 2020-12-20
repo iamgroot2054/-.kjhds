@@ -1,1 +1,2 @@
-# -.kjhds
+# synchronousBallMovement
+Ball moving synchronously
